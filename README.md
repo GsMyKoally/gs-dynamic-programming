@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=409AD5&height=150&text=KoAlly&fontColor=ff8300&animation=fadeIn&section=header"/>
+
 # 🐨 KoAlly Mission Scheduler - Sistema de Gerenciamento de Tarefas Espaciais
 
 ## 👥 Integrantes
@@ -101,3 +103,5 @@ O motor do sistema. Ele recebe a lista de astronautas e a lista de tarefas e rea
 
 ```bash
 python main.py
+```
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=409AD5&height=120&section=footer"/>
