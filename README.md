@@ -95,7 +95,7 @@ O motor do sistema. Ele recebe a lista de astronautas e a lista de tarefas e rea
 
 ## 🏃‍♂️ Como Executar o Projeto
 
-1. Certifique-se de ter o Python 3.x instalado na sua máquina.
+1. Certifique-se de ter o Python 3.14 instalado em sua máquina.
 2. Clone este repositório ou copie o código para um arquivo chamado `main.py`.
 3. Execute o arquivo no terminal:
 
